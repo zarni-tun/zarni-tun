@@ -9,5 +9,10 @@
 
 ---
 
+## 🤖 Chat with me
+https://chat.soezarni.com/
+
+---
+
 Thanks for stopping by! 👇  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zarni-tun)
